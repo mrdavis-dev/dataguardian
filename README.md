@@ -23,7 +23,7 @@ Esta es una sencilla aplicación en Python para realizar respaldos manuales y au
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/Aplicacion-Respaldo-Base-Datos.git
+   git clone https://github.com/mrdavis-dev/dataguardian.git
 
 2. Instalar schedule
 
