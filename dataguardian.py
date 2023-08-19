@@ -58,8 +58,8 @@ class BackupApp:
     def manual_backup(self):
         try:
             # Nombre de la base de datos y contraseña
-            database_name = "clisys"
-            password = "37395"
+            database_name = "nombre de base de datos"
+            password = "contraseña de mysql"
 
             # Ruta y nombre del archivo de respaldo
             file_path = f"D:/py_projects/dataguardian/autodataguardian/auto_backups/autorespaldo_{time.strftime('%Y%m%d%H%M%S')}.sql"
